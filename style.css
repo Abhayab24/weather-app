@@ -10,7 +10,7 @@ body {
 .weather-container {
   background: white;
   padding: 30px;
-  border-radius: 12px;
+  border-radius: 14px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   text-align: center;
   width: 300px;
